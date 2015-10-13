@@ -1,0 +1,13 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TestActivity">
+
+    <Button
+        android:id="@+id/button_connect_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="连接测试" />
+</RelativeLayout>
+<!-- From: file:/F:/projects/kidtracker/appsource/android-kidtracker/libraries/ble/src/main/res/layout/activity_test.xml -->
